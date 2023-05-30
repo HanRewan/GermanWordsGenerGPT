@@ -1,7 +1,7 @@
 import openai
 import json
 
-api_key = "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"
+api_key = ""
 openai.api_key = api_key
 
 
